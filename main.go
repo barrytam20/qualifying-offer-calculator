@@ -20,7 +20,7 @@ func main() {
 		log.Fatalf(err.Error())
 	}
 
-	// insert player salary into max heap
+	// insert player salaries into max heap
 	salaries := &maxheap{}
 	noSalaryData := []*player{}
 	for _, p := range players {
