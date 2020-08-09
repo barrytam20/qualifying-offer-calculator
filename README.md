@@ -25,7 +25,7 @@ number of players missing salary data: 44
 ```
 
 ### Running locally
-Application can also be run locally as a [golang](https://golang.org/dl/). Ensure you have at least version 1.13 of go installed, clone this repository, and run the following commands at the root of the project to view the results
+Application can also be run locally with [go](https://golang.org/dl/). Ensure you have at least version 1.13 of go installed, clone this repository, and run the following commands at the root of the project to view the results
 1. `go mod tidy` 
 1. `go run main.go`
 
